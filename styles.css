@@ -389,3 +389,11 @@ h3 {
         font-size: 14px;
 }
 }
+@media (max-width: 383px) {
+  .succedebox p {
+    font-size: 13px;
+    margin-top: 25px;
+    color: #b7b4b4;
+}
+}
+
